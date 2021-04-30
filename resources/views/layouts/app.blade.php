@@ -11,7 +11,7 @@
 	            <div class="links bg-danger border-white text-white row justify-content-between align-items-center" >
 	            	
 	               <div class="col-7 d-flex justify-content-end">
-	               		<a href="/" class="text-white px-5"><h1>MUSICA</h1></a>
+	               		<a href="/" class="text-white px-5"><h1>POKEMON</h1></a>
 	               </div>
 	               <div class="col-2 d-flex justify-content-end">
 	               <ul class="navbar-nav ml-auto text-white d-flex justify-content-end">
